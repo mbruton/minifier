@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<adapt_framework>
+  <bundle>
+    <name>minifier</name>
+    <label>Adapt Minifier</label>
+    <version>1.0.0</version>
+    <type>extension</type>
+    <description>Minifies Javascript and CSS and lumps them into a single .css .js file</description>
+    <copyright>2015 Adapt Framework</copyright>
+    <schema_installed>Yes</schema_installed>
+  </bundle>
+</adapt_framework>
