@@ -7,6 +7,5 @@
     <type>extension</type>
     <description>Minifies Javascript and CSS and lumps them into a single .css .js file</description>
     <copyright>2015 Adapt Framework</copyright>
-    <schema_installed>Yes</schema_installed>
   </bundle>
 </adapt_framework>
