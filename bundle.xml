@@ -5,7 +5,14 @@
     <label>Adapt Minifier</label>
     <version>1.0.0</version>
     <type>extension</type>
+    <namespace>\adapt\minifier</namespace>
     <description>Minifies Javascript and CSS and lumps them into a single .css .js file</description>
     <copyright>2015 Adapt Framework</copyright>
+    <depends_on>
+      <bundle>
+        <name>adapt</name>
+        <version>1.0</version>
+      </bundle>
+    </depends_on>
   </bundle>
 </adapt_framework>
